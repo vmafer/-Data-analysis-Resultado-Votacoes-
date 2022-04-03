@@ -1,4 +1,4 @@
-# -Data-analysis-Resultado-Votacoes-
+# Data-analysis-Resultado-Votacoes
 
 <h1> Descrição do Projeto </h1>
 
